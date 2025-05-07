@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Aquasonic-cleaning/static/css/main.03c2dba8.css",
-    "main.js": "/Aquasonic-cleaning/static/js/main.86d4105d.js",
+    "main.js": "/Aquasonic-cleaning/static/js/main.d6047285.js",
     "static/js/453.e7e2628c.chunk.js": "/Aquasonic-cleaning/static/js/453.e7e2628c.chunk.js",
     "index.html": "/Aquasonic-cleaning/index.html",
     "main.03c2dba8.css.map": "/Aquasonic-cleaning/static/css/main.03c2dba8.css.map",
-    "main.86d4105d.js.map": "/Aquasonic-cleaning/static/js/main.86d4105d.js.map",
+    "main.d6047285.js.map": "/Aquasonic-cleaning/static/js/main.d6047285.js.map",
     "453.e7e2628c.chunk.js.map": "/Aquasonic-cleaning/static/js/453.e7e2628c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03c2dba8.css",
-    "static/js/main.86d4105d.js"
+    "static/js/main.d6047285.js"
   ]
 }
