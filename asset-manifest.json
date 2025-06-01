@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Aquasonic-cleaning/static/css/main.03c2dba8.css",
-    "main.js": "/Aquasonic-cleaning/static/js/main.d6047285.js",
-    "static/js/453.e7e2628c.chunk.js": "/Aquasonic-cleaning/static/js/453.e7e2628c.chunk.js",
-    "index.html": "/Aquasonic-cleaning/index.html",
-    "main.03c2dba8.css.map": "/Aquasonic-cleaning/static/css/main.03c2dba8.css.map",
-    "main.d6047285.js.map": "/Aquasonic-cleaning/static/js/main.d6047285.js.map",
-    "453.e7e2628c.chunk.js.map": "/Aquasonic-cleaning/static/js/453.e7e2628c.chunk.js.map"
+    "main.css": "/static/css/main.03c2dba8.css",
+    "main.js": "/static/js/main.a11f3837.js",
+    "static/js/453.e7e2628c.chunk.js": "/static/js/453.e7e2628c.chunk.js",
+    "index.html": "/index.html",
+    "main.03c2dba8.css.map": "/static/css/main.03c2dba8.css.map",
+    "main.a11f3837.js.map": "/static/js/main.a11f3837.js.map",
+    "453.e7e2628c.chunk.js.map": "/static/js/453.e7e2628c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03c2dba8.css",
-    "static/js/main.d6047285.js"
+    "static/js/main.a11f3837.js"
   ]
 }
